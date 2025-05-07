@@ -1,1 +1,1 @@
-Simplified version of "matmatma"t learning platform, without sql database
+Simplified version of "matmatmat' learning platform (without sql database)
